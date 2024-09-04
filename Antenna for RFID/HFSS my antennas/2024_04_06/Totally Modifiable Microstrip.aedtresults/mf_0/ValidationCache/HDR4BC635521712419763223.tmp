@@ -1,0 +1,12 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+		Status=true
+		FileName='VI43C523264171251947992.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='c=\'300000000m_per_sec\' D=\'28.302mm\' f0=\'915MHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'2mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+		Status=true
+		FileName='VI12C2202961713218042110.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

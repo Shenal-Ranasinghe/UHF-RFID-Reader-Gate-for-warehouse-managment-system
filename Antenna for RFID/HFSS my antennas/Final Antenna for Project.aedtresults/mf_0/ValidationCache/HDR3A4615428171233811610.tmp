@@ -1,0 +1,32 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='hsub=\'1.5880000000000001mm\' htrace=\'0.035000000000000003mm\' widthCP=\'1.3999999999999999mm\' Xpatch=\'110.06999999999999mm\' Ypatch=\'99.769999999999996mm\''
+		Status=true
+		FileName='VI5FA615428171234104644.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='hsub=\'1.5880000000000001mm\' htrace=\'0.035000000000000003mm\' widthCP=\'1.3999999999999999mm\' Xpatch=\'43.387233266000003mm\' Ypatch=\'2.7990708560000002mm\''
+		Status=true
+		FileName='VI7F55154281712343530152.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='hsub=\'1.5880000000000001mm\' htrace=\'0.035000000000000003mm\' widthCP=\'1.3999999999999999mm\' Xpatch=\'74.675885624333006mm\' Ypatch=\'96.265609756508994mm\''
+		Status=true
+		FileName='VI79CC154281712343096120.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='hsub=\'1.5880000000000001mm\' htrace=\'0.035000000000000003mm\' widthCP=\'1.3999999999999999mm\' Xpatch=\'77.769999999999996mm\' Ypatch=\'99.769999999999996mm\''
+		Status=true
+		FileName='VI669615428171234159070.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='hsub=\'1.5880000000000001mm\' htrace=\'0.035000000000000003mm\' widthCP=\'1.3999999999999999mm\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.767314663964996mm\''
+		Status=true
+		FileName='VI3A4615428171233811611.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='hsub=\'1.5880000000000001mm\' htrace=\'0.035000000000000003mm\' widthCP=\'1.3999999999999999mm\' Xpatch=\'80mm\' Ypatch=\'99.769999999999996mm\''
+		Status=true
+		FileName='VI6FAF154281712342303101.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

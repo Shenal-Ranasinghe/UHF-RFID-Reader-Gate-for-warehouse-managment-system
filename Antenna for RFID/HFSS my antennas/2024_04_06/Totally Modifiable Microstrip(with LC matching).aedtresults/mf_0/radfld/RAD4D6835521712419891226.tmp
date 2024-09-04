@@ -1,0 +1,36 @@
+$begin 'RFSM'
+	$begin 'RadSurfs'
+	$end 'RadSurfs'
+	$begin 'CustomSurfs'
+	$end 'CustomSurfs'
+	$begin 'SetupSolns'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=9, VersID=10, ParentID=61, VersID=194, Context='[0:0]', DesVarn='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'0.80000000000000004mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='4E372395217125202984.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=9, VersID=10, ParentID=61, VersID=194, Context='[0:0]', DesVarn='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='092023952171252491642.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=9, VersID=10, ParentID=61, VersID=194, Context='[0:0]', DesVarn='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1.5mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='1266236017125256432.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=9, VersID=10, ParentID=61, VersID=194, Context='[0:0]', DesVarn='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'81.910499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='1270236017125256463.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=9, VersID=10, ParentID=61, VersID=194, Context='[0:0]', DesVarn='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'82mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='1279236017125256494.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=9, VersID=10, ParentID=61, VersID=194, Context='[0:0]', DesVarn='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.959999999999994mm\' Ypatch=\'99.767314663964996mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='067523952171252470737.tmp'
+		$end 'SetupSolnEntry'
+	$end 'SetupSolns'
+	$begin 'MonostaticRcsSolns'
+	$end 'MonostaticRcsSolns'
+	$begin 'RadiatedPowerCaches'
+	$end 'RadiatedPowerCaches'
+$end 'RFSM'

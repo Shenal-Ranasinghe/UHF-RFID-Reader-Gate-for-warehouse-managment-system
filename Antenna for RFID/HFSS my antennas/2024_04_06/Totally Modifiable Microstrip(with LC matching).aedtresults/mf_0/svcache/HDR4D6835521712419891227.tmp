@@ -1,0 +1,148 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=4
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='Gamma(1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='Z(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=60
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=61
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 9, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=194
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' Freq=\'0.91500000000000004GHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'0.80000000000000004mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min05872395217125246349.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' Freq=\'0.91500000000000004GHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min0A8723952171252502644.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' Freq=\'0.91500000000000004GHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1.5mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min1EE0236017125266216.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' Freq=\'0.91500000000000004GHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'81.910499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min1EE0236017125266217.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' Freq=\'0.91500000000000004GHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'82mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min1EE0236017125266218.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' Freq=\'0.91500000000000004GHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.959999999999994mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min091623952171252491339.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=65
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=194
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'81.910499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min14A035521712425474317.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'82mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min37FF23264171251855627.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min3A2D23264171251872743.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1.5mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min3CBA23264171251892768.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'0.80000000000000004mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min43CF23264171251948295.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.959999999999994mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min091623952171252491340.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(0, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=194
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min058A23952171252463511.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'0.80000000000000004mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min058A23952171252463514.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1.5mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min058A23952171252463515.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'81.910499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min058A23952171252463512.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'82mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min058A23952171252463513.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

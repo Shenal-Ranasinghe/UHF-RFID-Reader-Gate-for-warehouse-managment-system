@@ -1,0 +1,424 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002024, month=000000000004, day=000000000021, hour=000000000016, min=000000000035, sec=000000000005)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000044501, lin=000000000403, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign2'
+	VersionID=1295
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=1598
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.900000000000006mm\' Ypatch=\'99.870000000000005mm\'', ID=713)
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.670000000000002mm\'', ID=703)
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.769999999999996mm\'', ID=701)
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.870000000000005mm\'', ID=705)
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.879999999999995mm\'', ID=711)
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.950000000000003mm\'', ID=709)
+		Map(V='D=\'-28.302mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.769999999999996mm\'', ID=687)
+		Map(V='D=\'-28.681999999999999mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'110.649213mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'73.046999999999997mm\' Ypatch=\'94.310000000000002mm\'', ID=1384)
+		Map(V='D=\'-28.681999999999999mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'110.649213mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1381)
+		Map(V='D=\'-28.681999999999999mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'81.967200000000005mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1452)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'110.649213mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1383)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'44.941800000000001mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1373)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'44.941800000000001mm\' Transmissonline_width=\'2.5mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1255)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'73.723799999999997mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1377)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'81.967213000000001mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1379)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75mm\' Ypatch=\'99.769999999999996mm\'', ID=1246)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.180000000000007mm\' Ypatch=\'99.769999999999996mm\'', ID=1015)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1098)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.769999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=998)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'78.180000000000007mm\' Ypatch=\'99.769999999999996mm\'', ID=1017)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'2.5mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1252)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.769999999999996mm\'', ID=1250)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1248)
+		Map(V='D=\'-28.782mm\' f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.769999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=1010)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'0.90000000000000002mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', ID=657)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1.1000000000000001mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', ID=652)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1.2mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', ID=655)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=244)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'2.9287999999999998mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=149)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'2.9287999999999998mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', ID=247)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.069999999999993mm\' Ypatch=\'99.569999999999993mm\'', ID=676)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.069999999999993mm\' Ypatch=\'99.670000000000002mm\'', ID=679)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.370000000000005mm\' Ypatch=\'99.569999999999993mm\'', ID=674)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.870000000000005mm\' Ypatch=\'99.569999999999993mm\'', ID=672)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.969999999999999mm\' Ypatch=\'99.569999999999993mm\'', ID=669)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.969999999999999mm\' Ypatch=\'99.670000000000002mm\'', ID=667)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.969999999999999mm\' Ypatch=\'99.769999999999996mm\'', ID=665)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.569999999999993mm\'', ID=683)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.670000000000002mm\'', ID=681)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.769999999999996mm\'', ID=685)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.069999999999993mm\' Ypatch=\'99.769999999999996mm\'', ID=663)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.170000000000002mm\' Ypatch=\'99.769999999999996mm\'', ID=661)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=659)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', ID=476)
+		Map(V='f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Transmissonline_width=\'2.9287999999999998mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', ID=62)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=1373, Ver=1295, Dir='DV1373_V1295.imesh/')
+		M(VID=1377, Ver=1295, Dir='DV1377_V1295.imesh/')
+		M(VID=1379, Ver=1295, Dir='DV1379_V1295.imesh/')
+		M(VID=1381, Ver=1295, Dir='DV1381_V1295.imesh/')
+		M(VID=1383, Ver=1295, Dir='DV1383_V1295.imesh/')
+		M(VID=1384, Ver=1295, Dir='DV1384_V1295.imesh/')
+		M(VID=1452, Ver=1295, Dir='DV1452_V1295.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=84
+	$begin 'NextAssemVersionID'
+		NextUniqueID=85
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=83
+			VIDMap('f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'0.90000000000000002mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', 658, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1.1000000000000001mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', 653, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1.2mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', 656, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'110.649213mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'73.046999999999997mm\' Ypatch=\'94.310000000000002mm\'', 1385, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'110.649213mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1382, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'44.941800000000001mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1375, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'73.723799999999997mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1378, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'81.967200000000005mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1453, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Tr_length=\'81.967213000000001mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1380, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75mm\' Ypatch=\'99.769999999999996mm\'', 1247, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.180000000000007mm\' Ypatch=\'99.769999999999996mm\'', 1016, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 245, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.769999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1000, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'1.3999999999999999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'78.180000000000007mm\' Ypatch=\'99.769999999999996mm\'', 1018, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'2.5mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1253, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'2.9287999999999998mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 220, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'2.9287999999999998mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', 248, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.900000000000006mm\' Ypatch=\'99.870000000000005mm\'', 714, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.670000000000002mm\'', 704, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.769999999999996mm\'', 702, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.870000000000005mm\'', 706, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.879999999999995mm\'', 712, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'75.950000000000003mm\' Ypatch=\'99.950000000000003mm\'', 710, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.069999999999993mm\' Ypatch=\'99.569999999999993mm\'', 677, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.069999999999993mm\' Ypatch=\'99.670000000000002mm\'', 680, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.370000000000005mm\' Ypatch=\'99.569999999999993mm\'', 675, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.870000000000005mm\' Ypatch=\'99.569999999999993mm\'', 673, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.969999999999999mm\' Ypatch=\'99.569999999999993mm\'', 670, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.969999999999999mm\' Ypatch=\'99.670000000000002mm\'', 668, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76.969999999999999mm\' Ypatch=\'99.769999999999996mm\'', 666, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.569999999999993mm\'', 684, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.670000000000002mm\'', 682, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.769999999999996mm\'', 686, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.069999999999993mm\' Ypatch=\'99.769999999999996mm\'', 664, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.170000000000002mm\' Ypatch=\'99.769999999999996mm\'', 662, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 660, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3.0360326705556999mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.969459044893mm\' Ypatch=\'99.769999999999996mm\'', 613, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'76mm\' Ypatch=\'99.769999999999996mm\'', 1251, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1249, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Scut=\'1mm\' Transmissonline_width=\'3mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.769999999999996mm\' Ypatch=\'99.769999999999996mm\'', 1011, 'f0=\'0.91500000000000004GHz\' hsub=\'1.5880000000000001mm\' htrac=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Transmissonline_width=\'2.9287999999999998mm\' velocity_light=\'300000000m_per_sec\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.769999999999996mm\'', 118)
+			DM(VID=1375, Ver=83, Dir='NDV1375_V83.dmesh/')
+			DM(VID=1378, Ver=83, Dir='NDV1378_V83.dmesh/')
+			DM(VID=1380, Ver=83, Dir='NDV1380_V83.dmesh/')
+			DM(VID=1382, Ver=83, Dir='NDV1382_V83.dmesh/')
+			DM(VID=1385, Ver=83, Dir='NDV1385_V83.dmesh/')
+			DM(VID=1453, Ver=83, Dir='NDV1453_V83.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=1373, Ver=1295, Dir='DV1373_MI0_V1295.sd/')
+			MI(VID=1377, Ver=1295, Dir='DV1377_MI0_V1295.sd/')
+			MI(VID=1379, Ver=1295, Dir='DV1379_MI0_V1295.sd/')
+			MI(VID=1381, Ver=1295, Dir='DV1381_MI0_V1295.sd/')
+			MI(VID=1383, Ver=1295, Dir='DV1383_MI0_V1295.sd/')
+			MI(VID=1384, Ver=1295, Dir='DV1384_MI0_V1295.sd/')
+			MI(VID=1452, Ver=1295, Dir='DV1452_MI0_V1295.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=0
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=478, Instance=\'SetupDefinition\', Solution=-1, VersionID=1295)'='SolutionBlock29'
+	'SolutionKey(SimSetup=478, Instance=\'SolutionDefinition\', Solution=479, VersionID=1410)'='SolutionBlock30'
+	'SolutionKey(SimSetup=478, Instance=\'SolutionDefinition\', Solution=480, VersionID=1410)'='SolutionBlock31'
+	'SolutionKey(SimSetup=478, Instance=\'SolutionDefinition\', Solution=483, VersionID=1410)'='SolutionBlock32'
+$end 'BlockMapName'
+$begin 'SolutionBlock30'
+	SolutionName='AdaptivePass'
+	SolutionID=479
+	V=1410
+	$begin 'States'
+		F(VID=1381, Ver=1410)
+		F(VID=1452, Ver=1410)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			M(VID=1452, Ver=1410, File='DV1452_SOL479_M1_V1410.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			M(VID=1452, Ver=1410, File='DV1452_SOL479_M2_V1410.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			M(VID=1452, Ver=1410, File='DV1452_SOL479_M3_V1410.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			M(VID=1381, Ver=1410, File='DV1381_SOL479_M6_V1410.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock30'
+$begin 'SolutionBlock31'
+	SolutionName='LastAdaptive'
+	SolutionID=480
+	V=1410
+	$begin 'States'
+		F(VID=1381, Ver=1410)
+		F(VID=1452, Ver=1410)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=1381, Ver=1410, File='DV1381_SOL480_M0_V1410.sd')
+			M(VID=1452, Ver=1410, File='DV1452_SOL480_M0_V1410.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(617, 915000000)
+		$begin 'DataMap'
+			VID=1381
+			Ver=1410
+			F(DblID=617, Dir='DV1381_S480_V1410_F617/')
+		$end 'DataMap'
+		$begin 'DataMap'
+			VID=1452
+			Ver=1410
+			F(DblID=617, Dir='DV1452_S480_V1410_F617/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock31'
+$begin 'SolutionBlock32'
+	SolutionName='Sweep'
+	SolutionID=483
+	V=1410
+	$begin 'States'
+		F(VID=1381, Ver=1410)
+		F(VID=1452, Ver=1410)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(457500000, 459787500, 462075000, 464362500, 466650000, 468937500, 471225000, 473512500, 475800000, 478087500, 480375000, 482662500, 484950000, 487237500, 489525000, 491812500, 494100000, 496387500, 498675000, 500962500, 503250000, 505537500, 507825000, 510112500, 512400000, 514687500, 516975000, 519262500.0000001, 521549999.9999999, 523837500, 526125000, 528412500, 530700000.0000001, 532987499.9999999, 535275000, 537562500, 539850000, 542137500, 544425000, 546712500, 549000000, 551287500, 553575000, 555862500, 558150000, 560437500, 562725000, 565012500, 567300000, 569587500, 571875000, 574162500, 576450000, 578737500, 581025000, 583312500, 585600000, 587887500, 590175000, 592462500, 594750000, 597037500, 599325000, 601612500, 603900000, 606187500, 608475000, 610762500, 613050000, 615337500, 617625000, 619912500, 622200000, 624487500, 626775000, 629062500, 631350000, 633637500, 635925000, 638212500, 640500000, 642787500, 645075000, 647362500, 649650000, 651937500, 654225000, 656512500, 658800000, 661087500, 663375000, 665662500, 667950000, 670237500, 672525000, 674812500, 677100000, 679387500, 681675000, 683962500, 686250000, 688537500, 690825000, 693112500, 695400000, 697687500, 699975000, 702262500, 704550000, 706837500, 709125000, 711412500, 713700000, 715987500, 718275000, 720562500, 722850000, 725137500, 727425000, 729712500, 732000000, 734287500, 736575000, 738862500, 741150000, 743437500, 745725000, 748012500, 750300000, 752587500, 754875000, 757162500, 759450000, 761737500, 764025000, 766312500, 768600000, 770887500, 773175000, 775462500, 777750000, 780037500, 782325000, 784612500, 786900000, 789187500, 791475000, 793762500, 796050000, 798337500, 800625000, 802912500, 805200000, 807487500, 809775000, 812062500, 814350000, 816637500, 818925000, 821212500, 823500000, 825787500, 828075000, 830362500, 832650000, 834937500, 837225000, 839512500, 841800000, 844087500, 846375000, 848662500, 850950000, 853237500, 855525000, 857812500, 860100000, 862387500, 864675000, 866962500, 869250000, 871537500, 873825000, 876112500, 878400000, 880687500, 882975000, 885262500, 887550000, 889837500, 892125000, 894412500, 896700000, 898987500, 901275000, 903562500, 905850000, 908137500, 910425000, 912712500, 915000000, 917287500, 919575000, 921862500, 924150000, 926437500, 928725000, 931012500, 933300000, 935587500, 937875000, 940162500, 942450000, 944737500, 947025000, 949312500, 951600000, 953887500, 956175000, 958462500, 960750000, 963037500, 965325000, 967612500, 969900000, 972187500, 974475000, 976762500, 979050000, 981337500, 983625000, 985912500, 988200000, 990487500, 992775000, 995062500, 997350000, 999637500, 1001925000, 1004212500, 1006500000, 1008787500, 1011075000, 1013362500, 1015650000, 1017937500, 1020225000, 1022512500, 1024800000, 1027087500, 1029375000, 1031662500, 1033950000, 1036237500, 1038525000, 1040812500, 1043100000, 1045387500, 1047675000, 1049962500, 1052250000, 1054537500, 1056825000, 1059112500, 1061400000, 1063687500, 1065975000, 1068262500, 1070550000, 1072837500, 1075125000, 1077412500, 1079700000, 1081987500, 1084275000, 1086562500, 1088850000, 1091137500, 1093425000, 1095712500, 1098000000, 1100287500, 1102575000, 1104862500, 1107150000, 1109437500, 1111725000, 1114012500, 1116300000, 1118587500, 1120875000, 1123162500, 1125450000, 1127737500, 1130025000, 1132312500, 1134600000, 1136887500, 1139175000, 1141462500, 1143750000, 1146037500, 1148325000, 1150612500, 1152900000, 1155187500, 1157475000, 1159762500, 1162050000, 1164337500, 1166625000, 1168912500, 1171200000, 1173487500, 1175775000, 1178062500, 1180350000, 1182637500, 1184925000, 1187212500, 1189500000, 1191787500, 1194075000, 1196362500, 1198650000, 1200937500, 1203225000, 1205512500, 1207800000, 1210087500, 1212375000, 1214662500, 1216950000, 1219237500, 1221525000, 1223812500, 1226100000, 1228387500, 1230675000, 1232962500, 1235250000, 1237537500, 1239825000, 1242112500, 1244400000, 1246687500, 1248975000, 1251262500, 1253550000, 1255837500, 1258125000, 1260412500, 1262700000, 1264987500, 1267275000, 1269562500, 1271850000, 1274137500, 1276425000, 1278712500, 1281000000, 1283287500, 1285575000, 1287862500, 1290150000, 1292437500, 1294725000, 1297012500, 1299300000, 1301587500, 1303875000, 1306162500, 1308450000, 1310737500, 1313025000, 1315312500, 1317600000, 1319887500, 1322175000, 1324462500, 1326750000, 1329037500, 1331325000, 1333612500, 1335900000, 1338187500, 1340475000, 1342762500, 1345050000, 1347337500, 1349625000, 1351912500, 1354200000, 1356487500, 1358775000, 1361062500, 1363350000, 1365637500, 1367925000, 1370212500, 1372500000)
+		SolutionType=5
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=0
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=1381, Ver=1410, File='DV1381_SOL483_M0_V1410.sd')
+			M(VID=1452, Ver=1410, File='DV1452_SOL483_M0_V1410.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'TransientSolveStauts'
+		SS(VID=1381, Ver=1410, SS=1)
+		SS(VID=1452, Ver=1410, SS=1)
+	$end 'TransientSolveStauts'
+	$begin 'SolverUsage'
+		IDDblMap(638, 1372500000, 639, 457500000, 640, 686250000, 641, 1143750000, 642, 800625000, 643, 571875000, 644, 857812500, 645, 1029375000, 646, 1258125000, 647, 1315312500, 648, 1200937500, 649, 1086562500, 671, 972187500, 678, 886406250, 707, 514687500, 708, 629062500, 1005, 743437500, 1006, 829218750, 1007, 772031250, 1008, 600468750, 1254, 1000781250, 1454, 1343906250, 1455, 1286718750)
+		$begin 'DataMap'
+			VID=1381
+			Ver=1410
+			SU(DblID=639, SU='DV1381_S483_V1410_F639_SU.txt')
+			SU(DblID=707, SU='DV1381_S483_V1410_F707_SU.txt')
+			SU(DblID=643, SU='DV1381_S483_V1410_F643_SU.txt')
+			SU(DblID=640, SU='DV1381_S483_V1410_F640_SU.txt')
+			SU(DblID=642, SU='DV1381_S483_V1410_F642_SU.txt')
+			SU(DblID=644, SU='DV1381_S483_V1410_F644_SU.txt')
+			SU(DblID=671, SU='DV1381_S483_V1410_F671_SU.txt')
+			SU(DblID=1254, SU='DV1381_S483_V1410_F1254_SU.txt')
+			SU(DblID=645, SU='DV1381_S483_V1410_F645_SU.txt')
+			SU(DblID=649, SU='DV1381_S483_V1410_F649_SU.txt')
+			SU(DblID=641, SU='DV1381_S483_V1410_F641_SU.txt')
+			SU(DblID=648, SU='DV1381_S483_V1410_F648_SU.txt')
+			SU(DblID=646, SU='DV1381_S483_V1410_F646_SU.txt')
+			SU(DblID=647, SU='DV1381_S483_V1410_F647_SU.txt')
+			SU(DblID=638, SU='DV1381_S483_V1410_F638_SU.txt')
+		$end 'DataMap'
+		$begin 'DataMap'
+			VID=1452
+			Ver=1410
+			SU(DblID=639, SU='DV1452_S483_V1410_F639_SU.txt')
+			SU(DblID=707, SU='DV1452_S483_V1410_F707_SU.txt')
+			SU(DblID=643, SU='DV1452_S483_V1410_F643_SU.txt')
+			SU(DblID=640, SU='DV1452_S483_V1410_F640_SU.txt')
+			SU(DblID=642, SU='DV1452_S483_V1410_F642_SU.txt')
+			SU(DblID=1006, SU='DV1452_S483_V1410_F1006_SU.txt')
+			SU(DblID=644, SU='DV1452_S483_V1410_F644_SU.txt')
+			SU(DblID=678, SU='DV1452_S483_V1410_F678_SU.txt')
+			SU(DblID=671, SU='DV1452_S483_V1410_F671_SU.txt')
+			SU(DblID=645, SU='DV1452_S483_V1410_F645_SU.txt')
+			SU(DblID=649, SU='DV1452_S483_V1410_F649_SU.txt')
+			SU(DblID=641, SU='DV1452_S483_V1410_F641_SU.txt')
+			SU(DblID=648, SU='DV1452_S483_V1410_F648_SU.txt')
+			SU(DblID=646, SU='DV1452_S483_V1410_F646_SU.txt')
+			SU(DblID=1455, SU='DV1452_S483_V1410_F1455_SU.txt')
+			SU(DblID=647, SU='DV1452_S483_V1410_F647_SU.txt')
+			SU(DblID=1454, SU='DV1452_S483_V1410_F1454_SU.txt')
+			SU(DblID=638, SU='DV1452_S483_V1410_F638_SU.txt')
+		$end 'DataMap'
+	$end 'SolverUsage'
+$end 'SolutionBlock32'
+$begin 'SolutionBlock29'
+	SimSetupID=478
+	SimSetupName='Setup2'
+	VersionID=1295
+	$begin 'EmConvergenceData'
+		EmConv(VID=1373, Ver=1295, EmConv='DV1373_S478_V1295.EMConvData')
+		EmConv(VID=1377, Ver=1295, EmConv='DV1377_S478_V1295.EMConvData')
+		EmConv(VID=1379, Ver=1295, EmConv='DV1379_S478_V1295.EMConvData')
+		EmConv(VID=1381, Ver=1295, EmConv='DV1381_S478_V1295.EMConvData')
+		EmConv(VID=1383, Ver=1295, EmConv='DV1383_S478_V1295.EMConvData')
+		EmConv(VID=1384, Ver=1295, EmConv='DV1384_S478_V1295.EMConvData')
+		EmConv(VID=1452, Ver=1295, EmConv='DV1452_S478_V1295.EMConvData')
+	$end 'EmConvergenceData'
+	IsImported=false
+	IsTable=false
+	SolveSetupID=1
+	$begin 'CurrMeshes'
+		M(VID=1373, Ver=1295, Dir='DV1373_S478_V1295.cmesh/')
+		M(VID=1377, Ver=1295, Dir='DV1377_S478_V1295.cmesh/')
+		M(VID=1379, Ver=1295, Dir='DV1379_S478_V1295.cmesh/')
+		M(VID=1381, Ver=1295, Dir='DV1381_S478_V1295.cmesh/')
+		M(VID=1383, Ver=1295, Dir='DV1383_S478_V1295.cmesh/')
+		M(VID=1384, Ver=1295, Dir='DV1384_S478_V1295.cmesh/')
+		M(VID=1452, Ver=1295, Dir='DV1452_S478_V1295.cmesh/')
+	$end 'CurrMeshes'
+	MeshAssemVersionID=24
+	$begin 'NextAssemVersionID'
+		NextUniqueID=25
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'ADP'
+		$begin 'SubData'
+			ID=3
+			ADP(VID=1452, Ver=1295, Dir='DV1452_S478_ADP3_V1295.sd/')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			ADP(VID=1373, Ver=1295, Dir='DV1373_S478_ADP6_V1295.sd/')
+			ADP(VID=1377, Ver=1295, Dir='DV1377_S478_ADP6_V1295.sd/')
+			ADP(VID=1379, Ver=1295, Dir='DV1379_S478_ADP6_V1295.sd/')
+			ADP(VID=1381, Ver=1295, Dir='DV1381_S478_ADP6_V1295.sd/')
+			ADP(VID=1383, Ver=1295, Dir='DV1383_S478_ADP6_V1295.sd/')
+			ADP(VID=1384, Ver=1295, Dir='DV1384_S478_ADP6_V1295.sd/')
+		$end 'SubData'
+	$end 'ADP'
+	$begin 'SU'
+		$begin 'SubData'
+			ID=1
+			SU(VID=1373, Ver=1295, File='DV1373_S478_SD1_V1295.su')
+			SU(VID=1377, Ver=1295, File='DV1377_S478_SD1_V1295.su')
+			SU(VID=1379, Ver=1295, File='DV1379_S478_SD1_V1295.su')
+			SU(VID=1381, Ver=1295, File='DV1381_S478_SD1_V1295.su')
+			SU(VID=1383, Ver=1295, File='DV1383_S478_SD1_V1295.su')
+			SU(VID=1384, Ver=1295, File='DV1384_S478_SD1_V1295.su')
+			SU(VID=1452, Ver=1295, File='DV1452_S478_SD1_V1295.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			SU(VID=1373, Ver=1295, File='DV1373_S478_SD2_V1295.su')
+			SU(VID=1377, Ver=1295, File='DV1377_S478_SD2_V1295.su')
+			SU(VID=1379, Ver=1295, File='DV1379_S478_SD2_V1295.su')
+			SU(VID=1381, Ver=1295, File='DV1381_S478_SD2_V1295.su')
+			SU(VID=1383, Ver=1295, File='DV1383_S478_SD2_V1295.su')
+			SU(VID=1384, Ver=1295, File='DV1384_S478_SD2_V1295.su')
+			SU(VID=1452, Ver=1295, File='DV1452_S478_SD2_V1295.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			SU(VID=1373, Ver=1295, File='DV1373_S478_SD3_V1295.su')
+			SU(VID=1377, Ver=1295, File='DV1377_S478_SD3_V1295.su')
+			SU(VID=1379, Ver=1295, File='DV1379_S478_SD3_V1295.su')
+			SU(VID=1381, Ver=1295, File='DV1381_S478_SD3_V1295.su')
+			SU(VID=1383, Ver=1295, File='DV1383_S478_SD3_V1295.su')
+			SU(VID=1384, Ver=1295, File='DV1384_S478_SD3_V1295.su')
+			SU(VID=1452, Ver=1295, File='DV1452_S478_SD3_V1295.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			SU(VID=1373, Ver=1295, File='DV1373_S478_SD4_V1295.su')
+			SU(VID=1377, Ver=1295, File='DV1377_S478_SD4_V1295.su')
+			SU(VID=1379, Ver=1295, File='DV1379_S478_SD4_V1295.su')
+			SU(VID=1381, Ver=1295, File='DV1381_S478_SD4_V1295.su')
+			SU(VID=1383, Ver=1295, File='DV1383_S478_SD4_V1295.su')
+			SU(VID=1384, Ver=1295, File='DV1384_S478_SD4_V1295.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			SU(VID=1373, Ver=1295, File='DV1373_S478_SD5_V1295.su')
+			SU(VID=1377, Ver=1295, File='DV1377_S478_SD5_V1295.su')
+			SU(VID=1379, Ver=1295, File='DV1379_S478_SD5_V1295.su')
+			SU(VID=1381, Ver=1295, File='DV1381_S478_SD5_V1295.su')
+			SU(VID=1383, Ver=1295, File='DV1383_S478_SD5_V1295.su')
+			SU(VID=1384, Ver=1295, File='DV1384_S478_SD5_V1295.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			SU(VID=1373, Ver=1295, File='DV1373_S478_SD6_V1295.su')
+			SU(VID=1377, Ver=1295, File='DV1377_S478_SD6_V1295.su')
+			SU(VID=1379, Ver=1295, File='DV1379_S478_SD6_V1295.su')
+			SU(VID=1381, Ver=1295, File='DV1381_S478_SD6_V1295.su')
+			SU(VID=1383, Ver=1295, File='DV1383_S478_SD6_V1295.su')
+			SU(VID=1384, Ver=1295, File='DV1384_S478_SD6_V1295.su')
+		$end 'SubData'
+	$end 'SU'
+	$begin 'WaveAdapt'
+		WA(VID=1373, Ver=1295, A=1)
+		WA(VID=1377, Ver=1295, A=1)
+		WA(VID=1379, Ver=1295, A=1)
+		WA(VID=1381, Ver=1295, A=1)
+		WA(VID=1383, Ver=1295, A=1)
+		WA(VID=1384, Ver=1295, A=1)
+		WA(VID=1452, Ver=1295, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=1373, Ver=1295, P=6)
+		LP(VID=1377, Ver=1295, P=6)
+		LP(VID=1379, Ver=1295, P=6)
+		LP(VID=1381, Ver=1295, P=6)
+		LP(VID=1383, Ver=1295, P=6)
+		LP(VID=1384, Ver=1295, P=6)
+		LP(VID=1452, Ver=1295, P=3)
+	$end 'LastPassNumbers'
+	$begin 'Profiles'
+		P(VID=1373, Ver=1295, File='DV1373_S478_V1295.profile')
+		P(VID=1377, Ver=1295, File='DV1377_S478_V1295.profile')
+		P(VID=1379, Ver=1295, File='DV1379_S478_V1295.profile')
+		P(VID=1381, Ver=1295, File='DV1381_S478_V1295.profile')
+		P(VID=1383, Ver=1295, File='DV1383_S478_V1295.profile')
+		P(VID=1384, Ver=1295, File='DV1384_S478_V1295.profile')
+		P(VID=1452, Ver=1295, File='DV1452_S478_V1295.profile')
+	$end 'Profiles'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=1373, Ver=1295, Dir='DV1373_S478_MI0_V1295.sd/')
+			MI(VID=1377, Ver=1295, Dir='DV1377_S478_MI0_V1295.sd/')
+			MI(VID=1379, Ver=1295, Dir='DV1379_S478_MI0_V1295.sd/')
+			MI(VID=1381, Ver=1295, Dir='DV1381_S478_MI0_V1295.sd/')
+			MI(VID=1383, Ver=1295, Dir='DV1383_S478_MI0_V1295.sd/')
+			MI(VID=1384, Ver=1295, Dir='DV1384_S478_MI0_V1295.sd/')
+			MI(VID=1452, Ver=1295, Dir='DV1452_S478_MI0_V1295.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock29'
+$begin '$index$'
+	$begin '$index$'
+		BlockMapName(pos=28877, lin=99, lvl=0)
+		SolutionBlock30(pos=29384, lin=106, lvl=0)
+		SolutionBlock31(pos=30226, lin=144, lvl=0)
+		SolutionBlock32(pos=31091, lin=184, lvl=0)
+		SolutionBlock29(pos=38707, lin=259, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=44501, lin=403, lvl=0)
+	$end '$index$'
+$end '$index$'

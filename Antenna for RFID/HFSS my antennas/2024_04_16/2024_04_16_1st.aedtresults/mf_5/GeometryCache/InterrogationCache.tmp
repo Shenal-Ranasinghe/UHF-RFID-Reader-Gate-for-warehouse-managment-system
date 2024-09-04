@@ -1,0 +1,63 @@
+$begin 'InterrogationCache'
+	Version=1
+	$begin 'ValidationStatus'
+		$begin 'Options'
+			EntityCheckLevel='Strict'
+			IgnoreUnclassifiedObjects=false
+			SkipIntersectionChecks=false
+		$end 'Options'
+		Status=false
+	$end 'ValidationStatus'
+	$begin 'BodyCaches'
+		$begin '6'
+			$begin 'BoundingBox'
+				Low[3: -43.753999999999998, -54.698999999999998, 0]
+				High[3: 43.753999999999998, 54.698999999999998, 0.034999999999999996]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '6'
+		$begin '45'
+			$begin 'BoundingBox'
+				Low[3: -43.753999999999998, -54.698999999999998, 0]
+				High[3: 43.753999999999998, 54.698999999999998, 1.5880000000000001]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '45'
+		$begin '73'
+			$begin 'BoundingBox'
+				Low[3: -38.990000000000002, -49.935000000000002, 1.623]
+				High[3: 38.990000000000002, 49.935000000000002, 1.6580000000000004]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '73'
+		$begin '112'
+			$begin 'BoundingBox'
+				Low[3: 38.990000000000002, -1.5149999999999999, 1.623]
+				High[3: 43.754000000000005, 1.5149999999999999, 1.6580000000000004]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '112'
+		$begin '281'
+			$begin 'BoundingBox'
+				Low[3: 43.753999999999998, -1.5150000000000001, 6.9388939039072284e-16]
+				High[3: 43.753999999999998, 1.5149999999999995, 1.6580000000000008]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '281'
+		$begin '293'
+			$begin 'BoundingBox'
+				Low[3: -311.53263934426224, -327.95013934426225, -245.90163934426229]
+				High[3: 311.53263934426224, 327.95013934426225, 248.38863934426229]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '293'
+	$end 'BodyCaches'
+	$begin 'IntersectionCaches'
+	$end 'IntersectionCaches'
+$end 'InterrogationCache'

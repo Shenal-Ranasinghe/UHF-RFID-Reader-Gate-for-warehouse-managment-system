@@ -1,0 +1,27 @@
+(status): Nexxim version: 2023.2.0 WIN64, build time: May 16 2023, 23:37:21
+
+(status): Analyzing D:/PROJECT -SEM4/Antenna for RFID/HFSS my antennas/2024_04_06/919MHz antenna(modifiable).aedtresults/Circuit1/temp/DV13_S32_V36.cir.
+(info): Processing circuit for new analysis.
+omp(status): Requested number of threads in UI setting is 3
+circuit_details(status): Total device types: 5
+device type                                       number of devices
+----------------------------------------------------------------------
+capacitor                                         1
+field_solver_cosim                                1
+inductor                                          1
+port_impedance                                    1
+vpower_sin_source                                 1
+(status): License checkout took 0.858 seconds.
+models:field_solver_cosim(status): fieldsolver:2 - Cosimulation data transfer complete. Number of freq points = 1403.
+diagnostics(warning): Only one connection for node unconnected0.
+(info): Starting analysis type LNA.
+analysis:dc(status): Total DC newton iterations = 4, DC conv = 1.
+analysis:small_signal(status): Detected 1 floating nodes
+analysis:small_signal(status): Setting beta to 1e-12. The default is 0. Use .option small_signal.beta=value to change to value
+analysis:small_signal(status): Detected 1 floating nodes
+analysis:small_signal(status): Setting beta to 1e-12. The default is 0. Use .option small_signal.beta=value to change to value
+analysis:small_signal(status): Detected 1 floating nodes
+analysis:small_signal(status): Setting beta to 1e-12. The default is 0. Use .option small_signal.beta=value to change to value
+(status): LNA cpu time = 0.043
+(info): Simulation succeeded. Total simulator time: 0:00:01
+(status): Start Time:  04/06/2024 20:43:12, End Time:  04/06/2024 20:43:14, Host DESKTOP-FIEAA26, 

@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='D=\'28.302mm\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'1.3999999999999999mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+		Status=true
+		FileName='VI43C523264171251947992.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

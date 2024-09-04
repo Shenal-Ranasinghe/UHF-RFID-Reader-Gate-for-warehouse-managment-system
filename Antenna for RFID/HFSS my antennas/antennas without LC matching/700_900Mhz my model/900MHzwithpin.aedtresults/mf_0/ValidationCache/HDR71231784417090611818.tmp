@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='height=\'0.80000000000000004mm\' patchl=\'88.343112966982005mm\' patchw=\'110.49892402197mm\' subl=\'200mm\' subw=\'200mm\' xr=\'70mm\' yr=\'90mm\''
+		Status=true
+		FileName='VI73B017844170906138112.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

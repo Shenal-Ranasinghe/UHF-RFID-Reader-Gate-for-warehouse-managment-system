@@ -1,0 +1,12 @@
+$begin 'CacheDataVersion'
+	DataVersion=9
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	subl='200mm'
+	subw='200mm'
+	height='0.8mm'
+	patchl='88.343112966982mm'
+	patchw='110.49892402197mm'
+	xr='70mm'
+	yr='90mm'
+$end 'VariableValues'

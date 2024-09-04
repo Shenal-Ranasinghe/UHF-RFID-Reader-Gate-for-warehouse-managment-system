@@ -1,0 +1,89 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=4
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='Gamma(1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='Z(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=60
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=61
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 9, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=65
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=1373
+						$begin 'MinorVVMap'
+							MajorVariation='c=\'300000000m_per_sec\' D=\'28.302mm\' f0=\'915MHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'2mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min1817202961713218460138.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='c=\'300000000m_per_sec\' D=\'28.302mm\' f0=\'915MHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Ltrace=\'0.081967213114754092meter\' S=\'1mm\' widthCT=\'2mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min3D50202961713221378237.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='c=\'300000000m_per_sec\' D=\'28.681999999999999mm\' f0=\'915MHz\' hSub=\'1.5880000000000001mm\' Htrace=\'0.035000000000000003mm\' lambda=\'0.32786885245901637meter\' Ltrace=\'53.608499999999999mm\' S=\'1mm\' widthCT=\'2mm\' Xpatch=\'77.269999999999996mm\' Ypatch=\'99.767314663964996mm\''
+							MinorCacheFile='min210B202961713219162175.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=871
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=872
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=875
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

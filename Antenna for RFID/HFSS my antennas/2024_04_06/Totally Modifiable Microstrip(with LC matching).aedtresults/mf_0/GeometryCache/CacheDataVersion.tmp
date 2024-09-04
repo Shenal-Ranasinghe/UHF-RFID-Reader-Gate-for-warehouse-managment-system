@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=17
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	Xpatch='77.27mm'
+	Ypatch='99.767314663965mm'
+	hSub='1.588mm'
+	widthCT='1.4mm'
+	Htrace='0.035mm'
+	Ltrace='53.6085mm'
+	D='28.302mm'
+	S='1mm'
+$end 'VariableValues'
